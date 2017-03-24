@@ -1,0 +1,2 @@
+class Perr < ApplicationRecord
+end
