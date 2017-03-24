@@ -1,0 +1,2 @@
+class Holi < ApplicationRecord
+end
